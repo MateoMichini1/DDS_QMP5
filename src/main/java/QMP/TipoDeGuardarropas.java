@@ -1,0 +1,10 @@
+package ar.edu.utn.frba.dds.QMP;
+
+public enum TipoDeGuardarropas {
+    GUARDARROPA_DE_VERANO,
+    GUARDARROPA_DE_INVIERNO,
+    GUARDARROPA_DE_OTONIO,
+    GUARDARROPA_DE_PRIMAVERA,
+    GUARDARROPA_ENTRE_CASA,
+    GUARDARROPA_DE_FIESTA
+}
